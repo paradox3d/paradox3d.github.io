@@ -29,8 +29,8 @@ header {
 	margin-top: 20px;
 }
 .header-button {
-	
-	
+	text-decoration: none;
+	display: inline-block;
 	box-shadow: 10px 17px 34px 6px rgba(18, 61, 145, 0.83);
 	border-radius: 50px;
 	background-color: #ffffff;
@@ -128,6 +128,7 @@ footer {
 	font-size: 18px;
 	border-radius: 50px;
 	padding: 12px 40px;
+	text-decoration: none;
 }
 .footer-cta {
 	margin-bottom: 13px;
